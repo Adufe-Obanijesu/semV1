@@ -70,7 +70,7 @@ const App = () => {
     "to": accessNumber,
     "from": "Pappijoe",
     "body": amountOfUnit,
-    "dnd": "2"
+    "dnd": "6"
 }
   ).then(res => {
     console.log(res);
